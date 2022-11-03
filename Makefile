@@ -3,7 +3,7 @@ all: say_hello change_hooks_config
 # Note - First Line of the make file is always the default goal/target 
 # so, it gets executed everytime
 say_hello:
-		echo "Hello World"
+		echo "Hello World "
 
 generate_textfiles:
 		@echo "Creating empty text files..."
